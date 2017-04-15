@@ -10,6 +10,11 @@ _____ index.php _______
 		Firefox 28.0
 		Microsoft Edge 38.14393.1066.0
 		
+
+_____ populate.sql ____
+
+	Used to populate some data in next SQL File (sell.sql)
+		
 _____ sell.sql ____
 
 	Written for MySQL 5.7.14
